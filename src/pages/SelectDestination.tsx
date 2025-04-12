@@ -12,6 +12,7 @@ import {
 } from "@/components/ui/select";
 
 const destinationOptions = [
+  "Kapodra",
    "Utran R.O.B...",
   "Maangadh",
  
@@ -20,6 +21,7 @@ const destinationOptions = [
 const destinationOptions2 = [
   "Utran R.O.B...",
   "Maangadh",
+  "Kapodra",
    
 ];
 

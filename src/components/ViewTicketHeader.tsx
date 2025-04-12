@@ -27,7 +27,7 @@ const ViewTicketHeader: React.FC = () => {
         >
           <img src={ticket} alt="Paytm Logo" className="w-6" />
         </div>
-        <h2 className="font-bold">1 QR Ticket</h2>
+        <h2 className="font-bold mt-3">1 QR Ticket</h2>
       </div>
       <a href="https://paytm.com/care/customer-care">
         <p className="flex  align-center justify-center text-blue-300">

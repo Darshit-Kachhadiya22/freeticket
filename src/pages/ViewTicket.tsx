@@ -5,7 +5,7 @@ import ViewTicketContent from '../components/ViewTicketContent';
 
 const ViewTicket: React.FC = () => {
   return (
-    <div className="pb-8 w-full max-w-2xl mx-auto px-4 sm:px-6">
+    <div className=" ">
       <ViewTicketHeader />
       <ViewTicketContent />
     </div>

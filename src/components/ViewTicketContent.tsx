@@ -44,17 +44,17 @@ const ViewTicketContent: React.FC = () => {
           <h2>Ticket Details</h2>
           <img src={arrowup} className="w-6" alt="Arrow up" />
         </div>
-        <div className="flex justify-between mt-4 border-b-1 border-gray-200 py-2">
+        <div className="flex justify-between mt-4 border-b border-gray-200 py-2">
           <p className="">Issued On</p>
           <p>{formattedDate}</p>
         </div>
 
-        <div className="flex justify-between mt-4 border-b-1 border-gray-200 py-2">
+        <div className="flex justify-between mt-4 border-b border-gray-200 py-2">
           <p className="">Order ID</p>
           <p>24772608630</p>
         </div>
 
-        <div className="flex justify-between mt-4 border-b-1 border-gray-200 py-2">
+        <div className="flex justify-between mt-4 border-b border-gray-200 py-2">
           <p className="">Order Item ID</p>
           <p>32554312345</p>
         </div>
